@@ -1,10 +1,12 @@
+export const HTML = `
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>BAD</title>
+<title>GOOD</title>
 </head>
 <body>
-  Reload to check💥
+  Reload to check✨
 </body>
 </html>
+`;

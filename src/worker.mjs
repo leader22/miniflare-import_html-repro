@@ -1,4 +1,5 @@
 import HTML from "bad.html";
+// import { HTML } from "./good.html.mjs";
 
 export default {
   async fetch() {
