@@ -1,0 +1,8 @@
+name = "repro"
+type = "javascript"
+
+[build.upload]
+format = "modules"
+dir = "src"
+main = "./worker.mjs"
+rules = [{type = "Data", globs = ["**/*.html"]}]

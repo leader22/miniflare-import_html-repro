@@ -1,0 +1,15 @@
+{
+  "name": "miniflare-import_html-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "miniflare": "^2.2.0"
+  },
+  "scripts": {
+    "start": "miniflare -Vdw"
+  },
+  "keywords": [],
+  "author": "Yuji Sugiura",
+  "license": "MIT"
+}
